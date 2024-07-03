@@ -1,0 +1,15 @@
+Name: coldrex
+Date of inspection :10.2022
+Section: medicine
+Count: 10
+
+Name: doxiciclin belmed
+Date of inspection :10.2021
+Section: medicine
+Count: 20
+
+Name: alphabet germany
+Date of inspection :12.2023
+Section: vitamin
+Count: 20
+

@@ -1,0 +1,12 @@
+Name: coldrex
+Date of inspection: 09.2022
+Price: 100.22
+
+Name: doxiciclin belmed
+Date of inspection: 11.2021
+Price: 89.67
+
+Name: alphabet germany
+Date of inspection: 12.2023
+Price: 67.45
+
