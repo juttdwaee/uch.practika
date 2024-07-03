@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Pictures/ivan</file>
+        <file>../../Pictures/bita_vert.png</file>
+        <file>../../Pictures/bita_hor(60).png</file>
+        <file>../../Pictures/ivan2.png</file>
+        <file>../../Pictures/ivan3.png</file>
+        <file>../../Pictures/car for levakov.png</file>
+        <file>../../Pictures/png.png</file>
+        <file>../885.mp3</file>
+        <file>../roblox-death-sound-effect.mp3</file>
+    </qresource>
+</RCC>

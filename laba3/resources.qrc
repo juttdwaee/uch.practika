@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Pictures/bita_vert.png</file>
+        <file>../../Pictures/bita_hor(60).png</file>
+        <file>../../Pictures/zubovich.png</file>
+        <file>../../Pictures/car for levakov.png</file>
+        <file>../../Pictures/zubovich1.png</file>
+        <file>../../Pictures/zubovich2.png</file>
+        <file>../../Pictures/png.png</file>
+    </qresource>
+</RCC>
